@@ -1,0 +1,8 @@
+Library/
+Temp/
+Logs/
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+SunnyLand.sln
